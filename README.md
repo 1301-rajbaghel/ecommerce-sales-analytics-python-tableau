@@ -77,6 +77,7 @@ GitHub: https://github.com/1301-rajbaghel
 
 LinkedIn: https://www.linkedin.com/in/raj-pal-05b566323
 
+Tableau: https://public.tableau.com/app/profile/raj.baghel2916/viz/E-CommerceCustomerSalesAnalyticsDashboard/E-CommerceSalesOverviewDashboard
 ---
 
 ## Project Outcome
